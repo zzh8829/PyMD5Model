@@ -1,6 +1,5 @@
-=====================
-Doom3 MD5Model Loader
-=====================
+# Doom3 MD5Model Loader
+
 
 Doom3 MD5 format model
 
